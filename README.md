@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 Sobre mí  
+##  Sobre mí  
 
 Soy **Arquitecta** con un fuerte interés en el **diseño arquitectónico**, el **modelado 3D** y el **análisis de datos**.  
 A lo largo de mi carrera he descubierto el enorme poder creativo que hay en mí, y recientemente el **análisis de datos despertó un interés que va más allá de solo manejar información**: me motiva entenderla, interpretarla y transformarla en decisiones claras y útiles.
@@ -14,7 +14,7 @@ Actualmente me encuentro expandiendo mis habilidades hacia el mundo de **Data An
 
 ---
 
-## 🧠 Áreas de interés  
+##  Áreas de interés  
 
 - 🏛️ Diseño arquitectónico  
 - 🧱 Modelado 3D  
@@ -22,7 +22,7 @@ Actualmente me encuentro expandiendo mis habilidades hacia el mundo de **Data An
 
 ---
 
-## 📚 Educación  
+## Educación  
 
 - **Arquitectura**  
   Universidad Laica Vicente Rocafuerte  
@@ -32,7 +32,7 @@ Actualmente me encuentro expandiendo mis habilidades hacia el mundo de **Data An
 
 ---
 
-## 🚀 Tecnologías que estoy aprendiendo  
+## Tecnologías que estoy aprendiendo  
 
 - AutoCAD  
 - SketchUp  
@@ -42,7 +42,7 @@ Actualmente me encuentro expandiendo mis habilidades hacia el mundo de **Data An
 
 ---
 
-## 🤝 Colaboraciones  
+##  Colaboraciones  
 
 Estoy interesada en colaborar en:  
 
@@ -53,26 +53,26 @@ Estoy interesada en colaborar en:
 
 ---
 
-### 💻 Lenguajes  
+### Lenguajes  
 - Python  
 - SQL  
 
-### 🧩 Frameworks  
+###  Frameworks  
 - *(En aprendizaje / por definir)*  
 
-### 🧰 Herramientas  
+### Herramientas  
 - AutoCAD  
 - SketchUp  
 - V-Ray  
 - Enscape  
 - Power BI  
 
-### 🗄️ Bases de datos  
+### Bases de datos  
 - MySQL  
 
 ---
 
-## 📫 Contacto  
+##  Contacto  
 
 - 📧 Email: **desirelainez98@gmail.com**  
 - 💼 LinkedIn: [Daniella Lainez Alvarado](https://www.linkedin.com/in/daniella-lainez-alvarado-358163125/)  
