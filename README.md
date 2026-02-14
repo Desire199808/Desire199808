@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Daniella Desire Lainez Alvarado
+🎓 Arquitecta | 📊 Data Analyst (en proceso)
+📍 Guayaquil, Ecuador
 
-<!--
-**Desire199808/Desire199808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Sobre mí
+Soy Arquitecta con un fuerte interés en el diseño arquitectónico, el modelado 3D y el análisis de datos.
+A lo largo de mi carrera he descubierto el enorme poder creativo que hay en mí, y recientemente el análisis de datos despertó un interés que va más allá de solo manejar información: me motiva entenderla, interpretarla y transformarla en decisiones claras y útiles.
 
-Here are some ideas to get you started:
+Actualmente me encuentro expandiendo mis habilidades hacia el mundo de Data Analytics, combinando pensamiento analítico con una base creativa y técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Áreas de interés
+🏛️ Diseño arquitectónico
+🧱 Modelado 3D
+📈 Análisis y visualización de datos
+📚 Educación
+Arquitectura
+Universidad Laica Vicente Rocafuerte
+
+Data Analytics (en proceso)
+ESPOL
+
+🚀 Tecnologías que estoy aprendiendo
+AutoCAD
+SketchUp
+SQL
+Python
+Power BI
+🤝 Colaboraciones
+Estoy interesada en colaborar en:
+
+Proyectos de análisis de datos
+Visualización de datos en Power BI
+Proyectos donde se integren arquitectura + tecnología + datos
+Iniciativas de aprendizaje, dashboards, estudios de datos o proyectos creativos
+💻 Lenguajes
+Python
+SQL
+🧩 Frameworks
+(En aprendizaje / por definir)
+🧰 Herramientas
+AutoCAD
+SketchUp
+V-Ray
+Enscape
+Power BI
+🗄️ Bases de datos
+MySQL
+📫 Contacto
+📧 Email: desirelainez98@gmail.com
+💼 LinkedIn: Daniella Lainez Alvarado
+🐙 GitHub: Desire199808
+✨ Siempre abierta a aprender, crear y colaborar.
