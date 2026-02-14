@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniella Lainez  
+#  Daniella Desire Lainez Alvarado  
 
 🎓 Arquitecta | 📊 Data Analyst (en proceso)  
 📍 Guayaquil, Ecuador  
